@@ -8,7 +8,7 @@ plt.scatter(X[:,0], X[:,1], s=40, c=y, cmap=plt.cm.Spectral)
 plt.show()
 
 
-# 咱们先顶一个一个函数来画决策边界
+# 定义一个一个函数来画决策边界
 def plot_decision_boundary(pred_fn, X, y ):
     # 设定最大最小值，附加一点点边缘填充
     if isinstance(X, torch.Tensor):
