@@ -39,7 +39,7 @@ def plot_decision_boundary(pred_fn, X, y ):
 
 # from sklearn.linear_model import LogisticRegressionCV
 #
-# # 咱们先来瞄一眼逻辑斯特回归对于它的分类效果
+# #逻辑斯特回归对于它的分类效果
 # clf = LogisticRegressionCV()
 # clf.fit(X, y)
 #
