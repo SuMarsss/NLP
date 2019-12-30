@@ -1,4 +1,10 @@
 # file
+nonlinear_classifier_ez.py
+nonlinear_classifier_ez_BCE.py
+practice_language-model_2.py
+practice_word_embedding3.py
+practice_word_embedding__timeLag.py
+
 *.pkl
 *.txt
 *.jpg
